@@ -5,7 +5,7 @@ import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
     
-    var variavel: String = "Este arquivo foi modificado."
+    var variavel: String = "Este arquivo foi modificado novamente."
     
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
